@@ -1,7 +1,7 @@
 # COVID-19 Tracker
 
-### [Live Site](https://github.com/archi1008/covid-tracker-dashboard)
-Deployed on: https://archi1008.github.io/covid-tracker-dashboard/
+### [Live Site](https://isnt-archi1008-awesome.netlify.app/)
+Deployed on: https://isnt-archi1008-awesome.netlify.app/
 
 
 ## Introduction
