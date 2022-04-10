@@ -1,6 +1,7 @@
 # COVID-19 Tracker
 
-### [Live Site](https://archi1008.github.io/covid-tracker-dashboard/)
+### [Live Site](https://github.com/archi1008/covid-tracker-dashboard/blob/master/public/index.html)
+Deployed on: https://archi1008.github.io/covid-tracker-dashboard/
 
 
 ## Introduction
